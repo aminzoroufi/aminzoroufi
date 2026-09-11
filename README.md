@@ -7,9 +7,10 @@
 <br/>
 
 <a href="https://github.com/aminzoroufi/aminzoroufi/tree/main/projects"><img src="https://img.shields.io/badge/Projects-5aa2ff?style=for-the-badge&amp;logo=github&amp;logoColor=0a0e17" alt="Projects"/></a>
-<a href="https://doi.org/10.1098/rsif.2025.0480"><img src="https://img.shields.io/badge/Publication-46d6c4?style=for-the-badge&amp;logo=googlescholar&amp;logoColor=0a0e17" alt="Publication"/></a>
+<a href="https://www.researchgate.net/profile/Amin-Zoroufi-2"><img src="https://img.shields.io/badge/ResearchGate-46d6c4?style=for-the-badge&amp;logo=researchgate&amp;logoColor=0a0e17" alt="ResearchGate"/></a>
 <a href="https://www.linkedin.com/in/amin-zoroufi/"><img src="https://img.shields.io/badge/LinkedIn-0a0e17?style=for-the-badge&amp;logo=linkedin&amp;logoColor=5aa2ff" alt="LinkedIn"/></a>
 <a href="mailto:aminn.zoroufi@gmail.com"><img src="https://img.shields.io/badge/Email-0a0e17?style=for-the-badge&amp;logo=gmail&amp;logoColor=e0b25e" alt="Email"/></a>
+<a href="https://doi.org/10.1098/rsif.2025.0480"><img src="https://img.shields.io/badge/Publication-e0b25e?style=for-the-badge&amp;logo=googlescholar&amp;logoColor=1a1300" alt="Publication"/></a>
 
 </div>
 
